@@ -34,8 +34,6 @@ The following courses are recommended to be taken before/after taking this cours
 - Algorithms
 - (Optional) Computer Systems
 
-## Course Schedule
-
 ## Course materials
 
 ### (Unofficial) textbooks
@@ -113,3 +111,8 @@ Although students are allowed and encouraged to discuss general topics, the foll
 ## Other policies
 
 You may bring and use your notebook or tablet during the class. But the use of digital devices should be limited to course materials (e.g., lecture notes, code execution).
+
+## Miscellaneous
+- [어떻게 프로그래밍을 공부할 것인가?](https://paper.dropbox.com/doc/UFXkqqqwYBWfpDmigP0WE)
+- [이메일 에티켓](https://code.dgist.ac.kr/wiki/이메일-에티켓)
+  - 추가: 성적 등 교수만 알아야 될 내용이 아닌 경우, 조교와 교수 모두에게 메일을 보내지 않는 경우 답장을 하지 않을 예정입니다
