@@ -34,6 +34,16 @@ The following courses are recommended to be taken before/after taking this cours
 - Algorithms
 - (Optional) Computer Systems
 
+## Lecturer, TA, Office Hours
+
+* Lecturer: Min-gyu Cho (E7 L13)
+  - Office Hour: To be announced or by appointment
+* TA: Hyunlim Yang (E3 219)
+  - Office Hour: W 5:00p - 6:00p (E7) or by appointment
+* Lecture
+  - Room: E7 L22
+  - Time: M 4:30p - 6:00p, Th 10:30 - 12:00
+
 ## Course materials
 
 ### (Unofficial) textbooks
