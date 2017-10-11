@@ -4,21 +4,23 @@
 
 The following is a tentative schedule of this course. But it is HIGHLY likely that the course schedule will be modified to reflect needs of the class.
 
-* Week 1
+* Week 1 (9/4~)
   - Introduction to data science
   - python review: list, numpy
 
-* Week 2
+* Week 2 (9/11~)
   - python review: function, lambda, ...
 
-* Week 3
+* Week 3 (9/18~)
   - Processing data for data analysis
   - Data frame: pandas
-  - Tiny data
 
-* Week 4-5
+* Week 4 (9/25~)
   - Visualization: matplotlib
 
+* Week 5 (10/9~)
+  - Tidy data
+  
 * Week 6
   - Exploratory data analysis
 
