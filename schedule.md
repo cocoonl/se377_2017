@@ -21,26 +21,34 @@ The following is a tentative schedule of this course. But it is HIGHLY likely th
 * Week 5 (10/9~)
   - Tidy data
   
-* Week 6
+* Week 6-7 (10/16~, 10/23~)
   - Exploratory data analysis
-
-* Week 7-8
   - Hypothesis Testing with Statistical and Machine Learning
-  - Proposal presentation
 
-* Week 9
+* Week 8 (10/30~)
+  - midterm (No exma for this course)
+  
+* Week 9 (11/6~)
+  - Proposal presentation
+  - Hypothesis Testing with Statistical and Machine Learning (cont.)  
+
+* Week 10 (11/13~)
   - Web scraping
 
-* Week 10
+* Week 11 (11/20~)
+  - web scraping (cont')
   - (TBD) Text analysis
 
-* Week 11-12
-  - (TBD) Data Engineering: hadoop, map-reduce
+* Week 12 (11/27~)
+  - (TBD) Text analysis or Data Engineering: hadoop, map-reduce
 
-* Week 13
+* Week 13 (12/4~)
   - Final project presentation
 
-* Week 14
-  - reserved
+* Week 14 (12/11~)
+  - Final project presentation
+  
+* Week 15 (12/18~)
+  - Final (No exma for this course)
 
 The midterm and final week schedule is NOT included in the above schedule.
